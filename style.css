@@ -1,0 +1,21 @@
+h1, h2 {
+    font-family: 'Spectral';
+    color: #402702
+}
+
+p, ul, li {
+    font-family: 'Karla';
+    color: #402702
+}
+
+body {
+    background-color: #ffe873;
+}
+
+li::marker {
+  color: rgb(194, 45, 45);
+}
+
+img {
+  max-width: 25%
+}
